@@ -1,5 +1,3 @@
-📊 Built an interactive Power BI dashboard analyzing 100K+ Amazon sales records to uncover trends in revenue, profit, shipping efficiency, and return rates across U.S. regions and product categories.
-
 # 📦 Amazon Sales Analysis Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square&logo=power-bi)
