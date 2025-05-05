@@ -75,3 +75,34 @@ The source data includes fields such as:
 ## 📸 Dashboard Snapshots
 
 > <img width="669" alt="AMAON SALES REPORT" src="https://github.com/user-attachments/assets/1f8d1488-bd34-4380-ac8c-8f3ebec844a1" />
+
+
+
+---
+
+## 📘 Learning Outcomes
+
+- Built a star schema for data modeling
+- Applied DAX for custom KPIs like Return Rate, Profit Ratio
+- Used tooltips and drill-through for deeper analysis
+- Designed intuitive UI/UX using slicers and dynamic visuals
+
+---
+
+## 🧑‍💻 How to Use
+
+1. Clone this repo  
+2. Open the `.pbix` file using **Power BI Desktop**  
+3. Interact with the filters and visuals  
+4. Upload your own dataset for new insights (schema must match)
+
+---
+
+## 📜 License
+
+Distributed under the [MIT License](LICENSE).
+
+---
+
+
+
